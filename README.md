@@ -1,6 +1,6 @@
 # Proxmox VE Homelab Cluster
 
-Welcome to my homelab documentation! This repository tracks the architecture, network layout, storage configurations, and hosted services running across my 5-node Proxmox VE cluster.
+Welcome to my homelab documentation! This repository tracks the architecture, network layout, storage configurations, and hosted services running across my 5-node Proxmox VE cluster. I am using this lab in order to host helpful services, as well as learn networking fundamentals. 
 
 ---
 
